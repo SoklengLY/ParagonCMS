@@ -1,4 +1,8 @@
 <template>
+  <div class="flex flex-row mb-6">
+    <AdminHeader />
+    <AdminFooter />
+  </div>
     <AdminWebsite />
   </template>
   
